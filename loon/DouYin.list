@@ -1,17 +1,32 @@
 # NAME: DouYin
 
+DOMAIN,sso.douyin.com
+DOMAIN,www.douyin.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
-DOMAIN-KEYWORD, ecombdapi
-DOMAIN-KEYWORD, zjurl
-DOMAIN-KEYWORD, douyinstatic
-DOMAIN-KEYWORD, zijieapi
-DOMAIN-KEYWORD, douyin
-DOMAIN-KEYWORD, douyinvod
-DOMAIN-KEYWORD, zjcdn
-DOMAIN-KEYWORD, douyinpic
-DOMAIN-KEYWORD, toutiao
+DOMAIN-KEYWORD,-core-c-hl
+DOMAIN-KEYWORD,-core-c-lf
+DOMAIN-KEYWORD,-normal-c-hl
+DOMAIN-KEYWORD,-normal-c-lf
+DOMAIN-KEYWORD,-normal-hl
+DOMAIN-KEYWORD,-normal-lf
+DOMAIN-KEYWORD,core-c-lq
+DOMAIN-KEYWORD,core-lq
+DOMAIN-KEYWORD,normal-c-lq
+DOMAIN-KEYWORD,normal-lq
+DOMAIN-KEYWORD,search-lq
+DOMAIN-KEYWORD,search-quic-lq
+DOMAIN-KEYWORD,ecombdapi
+DOMAIN-KEYWORD,zjurl
+DOMAIN-KEYWORD,douyinstatic
+DOMAIN-KEYWORD,zijieapi
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,douyinvod
+DOMAIN-KEYWORD,zjcdn
+DOMAIN-KEYWORD,douyinpic
+DOMAIN-KEYWORD,toutiao
+DOMAIN-SUFFIX,snssdk.com
